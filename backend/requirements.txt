@@ -1,7 +1,10 @@
 alembic
 fastapi
+httpx
 psycopg2
 pydantic
+pytest
 python-dotenv
+pytest-mock
 sqlmodel
 uvicorn
